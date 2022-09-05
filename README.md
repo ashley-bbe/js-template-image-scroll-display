@@ -1,4 +1,4 @@
-# IMAGE DISPLAYING THROUGH SCROLL
+# IMAGE DISPLAYING BY SCROLLING
 
 ## 説明・概要
 JSで実装したページのスクロールに合わせて画像が表示される機能です。
